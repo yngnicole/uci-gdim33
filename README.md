@@ -2,16 +2,22 @@
 ## W1
 ### Activity 1
 [Inspo Board](https://pin.it/4Ttro2VCF)
-Some patterns that are emerging from my inspiration sources is 
-1. 2d pixel or 2d illustration artstyle
-2. 2d isometric camera 
-3. Table tennis with cats and spades on a card
-4. Stats like health, coins,
-5. Dialogue options
-6. Cats
-7. Spooky area
-8. Interesting 2d map that works with perspectives 
+1. Some patterns that are emerging from my inspiration sources is 
+- 2d pixel or 2d illustration artstyle
+- 2d isometric camera 
+- Table tennis with cats and spades on a card
+- Stats like health, coins
+- 
+- Dialogue options
+- Cats
+- Spooky area
+- Interesting 2d map that works with perspectives 
 
+Chat with at least one of your table mates about what they’re interested in building. How are your personal styles and interests similar?
+
+
+
+Chat with your table's LA about their taste in games. How are their tastes similar to yours?
 
 
 ### Activity 2
