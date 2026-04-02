@@ -3,7 +3,7 @@
 ### Activity 1
 [Inspo Board](https://pin.it/4Ttro2VCF)
 
-1. Some patterns that are emerging from my inspiration sources is 
+1. Some patterns that are emerging from my inspiration sources are
 - 2d pixel or 2d illustration artstyle
 - 2d isometric camera 
 - Table tennis with cats and spades on a card
@@ -19,7 +19,8 @@ how I should develop my game in that aspect becasue I have the most experience i
 3. My table's LA taste in game are FPS games. It is similar to mines as I play some fps games like Valorant but that is it...
 
 ### Activity 2
-Put your activity 2 image here. REMOVE THIS INSTRUCTIONAL TEXT.
+The genre that I want to use is combining 2D survival/exploration horror where the core mechanic and gameplay loop is trying to find items to survive like food and water and taming cats to
+fight and protect you from ghosts. 
 
 
 ## W2
