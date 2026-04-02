@@ -21,6 +21,8 @@ how I should develop my game in that aspect becasue I have the most experience i
 ### Activity 2
 The genre that I want to use is combining 2D survival/exploration horror where the core mechanic and gameplay loop is trying to find items to survive like food and water and taming cats to
 fight and protect you from ghosts. 
+<img width="1439" height="804" alt="image" src="https://github.com/user-attachments/assets/538ef4a3-d6a0-432c-ba72-74129a389920" />
+
 
 
 ## W2
