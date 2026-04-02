@@ -1,10 +1,17 @@
 # GDIM 33 In-Class Activities
 ## W1
 ### Activity 1
-Put your inspo board link here. Do NOT leave a bare URL. REMOVE ALL INSTRUCTIONAL TEXT.
+[Inspo Board](https://pin.it/4Ttro2VCF)
+Some patterns that are emerging from my inspiration sources is 
+1. 2d pixel or 2d illustration artstyle
+2. 2d isometric camera 
+3. Table tennis with cats and spades on a card
+4. Stats like health, coins,
+5. Dialogue options
+6. Cats
+7. Spooky area
+8. Interesting 2d map that works with perspectives 
 
-1. Put your activity 1 answers here.
-2. Please keep the proper list format.
 
 
 ### Activity 2
