@@ -8,7 +8,6 @@
 - 2d isometric camera 
 - Table tennis with cats and spades on a card
 - Stats like health, coins
-- 
 - Dialogue options
 - Cats
 - Spooky area
