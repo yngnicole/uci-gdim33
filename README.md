@@ -29,3 +29,5 @@ fight and protect you from ghosts.
 Write your W2 Devlog here.
 
 Continue adding additional headers below this one for future weeks and future activities.
+<img width="1502" height="1130" alt="Screenshot 2026-04-15 174035" src="https://github.com/user-attachments/assets/2ee0ca5a-c3ee-44ec-bb94-cc643b156aae" />
+
