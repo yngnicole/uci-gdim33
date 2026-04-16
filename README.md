@@ -30,7 +30,10 @@ fight and protect you from ghosts.
 <img width="1502" height="1130" alt="Screenshot 2026-04-15 174035" src="https://github.com/user-attachments/assets/2ee0ca5a-c3ee-44ec-bb94-cc643b156aae" />
 
 ### Activity 2
-Why is it advantageous to save the event name for the explore-to-dialogue state transitions as Scene variable ("clickNpcEventName")?
-Describe how using at least one Debug.Log() node helped you test your Graphs at an intermediate step.
-Is the Set Cursor Lock State relevant to your Vertical Slice? Why or why not?
-Is the concept of a "game state" relevant to your Vertical Slice? Why or why not?
+- It is advantageous to save the event name for the explore-to-dialogue state transitions as Scene variable because then other graphs can access this variable.
+For example, the Walrus graph needed to access the variable to trigger the game state transition to occur. 
+- I used a Debug.Log() to test if my transition from the two state machines worked. It helped me because I realized that I had problems with how the graph was set up that 
+didn't allow the transition to occur. This saved me the problem of figuring out what in my graphs are not working later. 
+- The Set Cursor Lock State is  relevant to my Vertical Slice because the camera movement will not be used with the mouse cursor so the mouse cursor is not needed at all. The 
+set cursor Lock state lets me lock the cursor so the player cannot access it. 
+- A game state is relevant to my Vertical Slice because I will be having different states for the enemies and cat gameobject where they have the states: idle or following player, provoked, and attacking. 
