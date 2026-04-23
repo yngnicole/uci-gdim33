@@ -50,3 +50,8 @@ set cursor Lock state lets me lock the cursor so the player cannot access it.
 	- No indication of how to attack the ghost 
 	- No indication of the ghost taking damage
 
+### Activity 2
+- The writer could add more dialogue to this setup without writing any code because they can write the dialogue nodes in the ScriptableObject which does not require them to write code. They can also "code" the dialogue to work through visual scripting.
+- The limit to the number of dialogue nodes that a writer could create without writing code depends on if the writer is creating any dialogue systems in the game. For example, if the writer needs to make dialogue buttons that branch off to existing dialogue, they may need to code it as visual scripting will get too messy. 
+- - The purpose of the "Regenerate Nodes" button is that it recieves the custom made nodes you create and also recieves any nodes that were not originally there. 
+
