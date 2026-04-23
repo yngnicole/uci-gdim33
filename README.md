@@ -37,3 +37,13 @@ didn't allow the transition to occur. This saved me the problem of figuring out 
 - The Set Cursor Lock State is  relevant to my Vertical Slice because the camera movement will not be used with the mouse cursor so the mouse cursor is not needed at all. The 
 set cursor Lock state lets me lock the cursor so the player cannot access it. 
 - A game state is relevant to my Vertical Slice because I will be having different states for the enemies and cat gameobject where they have the states: idle or following player, provoked, and attacking. 
+
+
+
+## W3
+### Activity 1
+- What is playable in my build right now is the most basic mechanic for player movement and cat attack. 
+- My playtesting goals is to find bugs and areas that I should fix.
+- Playtest Team Member: Hajin Lee, Romarick Anderson, Nicole Yang
+- Playtest notes
+
