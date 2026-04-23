@@ -45,5 +45,8 @@ set cursor Lock state lets me lock the cursor so the player cannot access it.
 - What is playable in my build right now is the most basic mechanic for player movement and cat attack. 
 - My playtesting goals is to find bugs and areas that I should fix.
 - Playtest Team Member: Hajin Lee, Romarick Anderson, Nicole Yang
-- Playtest notes
+- Playtest notes: 
+	- Cat falls after the ghost disappears
+	- No indication of how to attack the ghost 
+	- No indication of the ghost taking damage
 
