@@ -1,7 +1,8 @@
 using Unity.VisualScripting;
 using UnityEngine;
 
-//Register a string name for your Custom Scripting Event to hook it to an Event. You can save this class in a separate file and add multiple Events to it as public static strings.
+//Register a string name for your Custom Scripting Event to hook it to an Event. You can save this class in a separate file and
+//add multiple Events to it as public static strings.
 public static class EventNames
 {
   public static string NewDialogueEvent = "NewDialogueEvent";
