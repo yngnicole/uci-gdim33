@@ -57,7 +57,7 @@ set cursor Lock state lets me lock the cursor so the player cannot access it.
 
 ## W5
 ### Activity 1 
-ScriptableObject
+My Unity tool choice is ScriptableObject
 Big Step:
 1. Create ScriptableObjects to save data for items
 2. Write a script to implement how the data from SO will act on Player and Cat
