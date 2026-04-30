@@ -62,8 +62,13 @@ Big steps:
 1. Create ScriptableObjects to save data for items
 2. Write a script to implement how the data from SO will act on Player and Cat
 Small steps:
-1. Create a SO script and test if the shortcut menu appears in Unity.
-2. Create a SO from the shortcut menu in Unity with the data, Health: 20 
+1. Create a SO script with variables, Health, Hunger, Powerup and test if the shortcut menu appears in Unity.
+2. Create a SO from the shortcut menu in Unity with the data, Health: 20 and everything else zero
 3. Attach the SO with a medicine sprite I have. 
-4. Create an Item script that reads player input (v) to consume Item. Test if the item is consumed if it disappears when consumed. 
+4. Create an Item script that reads player input (v) to consume the SO. Test if the SO is consumed if it disappears when consumed. 
 5. Write additional code so that when the Item is consumed, Cat will gain 20 health. 
+### Activity 2 
+I created ScriptableObject script and added variables: Health, Hunger, Powerup and sprite icon. I created a SO object in Unity and attached my medicine sprite to it. I hooked up the
+SO on the medicine gameobject and in the item script, I changed my original event of OnConsumeMedicine?.Invoke(_medicinestat); to 
+OnConsumeMedicine?.Invoke(_scriptableObject.plusHealth); to get the variable plusHealth from _scriptableObject instead. My medicine item successfully disappears once consumed and 
+gives health back to the Cat gameObject.
