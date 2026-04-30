@@ -57,10 +57,10 @@ set cursor Lock state lets me lock the cursor so the player cannot access it.
 
 ## W5
 ### Activity 1 
-ScriptableObject:
+ScriptableObject
 Big Step:
-Create ScriptableObjects to save data for items
-Write a script to implement how the data from SO will act on Player and Cat
+1. Create ScriptableObjects to save data for items
+2. Write a script to implement how the data from SO will act on Player and Cat
 Small steps:
 1. Create a SO script with variables, Health, Hunger, Powerup and test if the shortcut menu appears in Unity.
 2. Create a SO from the shortcut menu in Unity with the data, Health: 20 and everything else zero
