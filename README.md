@@ -25,7 +25,7 @@ fight and protect you from ghosts.
 
 
 
-## W2
+## W3
 ### Activity 1
 <img width="1502" height="1130" alt="Screenshot 2026-04-15 174035" src="https://github.com/user-attachments/assets/2ee0ca5a-c3ee-44ec-bb94-cc643b156aae" />
 
@@ -40,7 +40,7 @@ set cursor Lock state lets me lock the cursor so the player cannot access it.
 
 
 
-## W3
+## W4
 ### Activity 1
 - What is playable in my build right now is the most basic mechanic for player movement and cat attack. 
 - My playtesting goals is to find bugs and areas that I should fix.
@@ -55,3 +55,15 @@ set cursor Lock state lets me lock the cursor so the player cannot access it.
 - The limit to the number of dialogue nodes that a writer could create without writing code depends on if the writer is creating any dialogue systems in the game. For example, if the writer needs to make dialogue buttons that branch off to existing dialogue, they may need to code it as visual scripting will get too messy. 
 - - The purpose of the "Regenerate Nodes" button is that it recieves the custom made nodes you create and also recieves any nodes that were not originally there. 
 
+## W5
+### Activity 1 
+ScriptableObject:
+Big steps:
+1. Create ScriptableObjects to save data for items
+2. Write a script to implement how the data from SO will act on Player and Cat
+Small steps:
+1. Create a SO script and test if the shortcut menu appears in Unity.
+2. Create a SO from the shortcut menu in Unity with the data, Health: 20 
+3. Attach the SO with a medicine sprite I have. 
+4. Create an Item script that reads player input (v) to consume Item. Test if the item is consumed if it disappears when consumed. 
+5. Write additional code so that when the Item is consumed, Cat will gain 20 health. 
