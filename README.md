@@ -80,3 +80,7 @@ gives health back to the Cat gameObject.
 - What is new in my build is that the Cat goes towards the enemy when they are in attack state, cat and enemy health is indicated in the top left and also new items are in the game. 
 - My playtesting goal is to see whether or not my cat mechanic is engaging, and working.
 [Itch](https://yngnicole.itch.io/gdim-33-playtest)
+- Playtesting notes: 
+- Visual indication of what button to press to consume items
+- Cat doesn't lock onto the enemy but rather goes past it. 
+- All items are consumed at once
