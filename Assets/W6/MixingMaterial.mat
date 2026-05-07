@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: RedMaterial
-  m_Shader: {fileID: -6465566751694194690, guid: 03b74b069c8aaa747961167740159a91,
+  m_Name: MixingMaterial
+  m_Shader: {fileID: -6465566751694194690, guid: 463a4a682141408429833463e8ecca54,
     type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -41,9 +41,10 @@ Material:
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
-    - _MyColor: {r: 0.95686275, g: 0.12422975, b: 0.10588234, a: 0}
+    - _FirstColor: {r: 0.45849732, g: 1, b: 0.44968545, a: 1}
+    - _SecondColor: {r: 1, g: 0.5141626, b: 0, a: 0}
   m_BuildTextureStacks: []
---- !u!114 &2084636560009468718
+--- !u!114 &8291603336907015687
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}

@@ -86,3 +86,9 @@ gives health back to the Cat gameObject.
 - All items are consumed at once
 
 ### Activity 2 
+1. Multiply setting of the Blend node make the resulting color darker and less saturated than the input colors because it multiplies two color inputs. When two color inputs are mulitplied,
+the resulting value gets smaller and smaller towards 0. Color that are closer to 0 are darker while colors that are closer to 1 are brighter. Thus mulitply makes color darker. 
+2. If we use Multiply to combine Alpha values, the resulting value be more translucent than either of the original values because the values are closer to 0 and alpha levels
+that are closer to 0 are more translucent. 
+3. I think the shader is getting the UV values from the mesh renderer on the Shiba gameobject.
+4. I think manipulating colors with math sounds interesting but intimidating.
