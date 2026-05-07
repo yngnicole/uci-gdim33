@@ -84,3 +84,5 @@ gives health back to the Cat gameObject.
 - Visual indication of what button to press to consume items
 - Cat doesn't lock onto the enemy but rather goes past it. 
 - All items are consumed at once
+
+### Activity 2 
