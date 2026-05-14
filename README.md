@@ -94,3 +94,16 @@ that are closer to 0 are more translucent.
 4. I think manipulating colors with math sounds interesting but intimidating.
 
 ## W7
+1. The data for the Vertex Color node in step 3 came from the Shiba mesh
+2. The color on our shiba in step 3 is blended at the edges of different regions of color because vertex color is a vertex data and when they are attached to the
+fragment shader, they're interpolated across the adjacent vertices. 
+3. The shiba from step 3 is less detailed than the shiba we rendered with a texture because vertex color is only colored at the vertex and then smoothed out over the polygons whereas
+textures are made from many pixels that are rendered at each pixel point. Since vertex color generally results in a less detailed color application, I think a vertex color can be useful for creating textures on objects that are meant to be 
+less detailed and blurry like perhaps soft lighting. 
+4. Based on the color of the shiba in step 4, it looks like the mesh's vertex normals on part of the shiba's leg is wrong because the rest of the shiba color is smooth but then
+there is a sudden lighter area that does not match the rest.
+5. One other piece of vertex data we can test with a debug shader are UV coordinates. The specific color can correspond to the U and V coordinates to see if they are mapped properly.
+6. There is an error in the lighting in step 5 on the back of the shiba because the vertex normal is pointing away from the shiba but the light direction vector is pointed towards 
+the shiba. This is because when two vectors point in opposite direction, it results in a negative dot product result. 
+7. We set the Blend Mode to Addictive for the fire effect in step 6 because it adds the color on the top layer to the texture on the bottom layer. This combines the orange with
+the noise texture, and increases the lighter areas because colors are being added and getting closer to 1. 
