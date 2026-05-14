@@ -75,7 +75,7 @@ SO on the medicine gameobject and in the item script, I changed my original even
 OnConsumeMedicine?.Invoke(_scriptableObject.plusHealth); to get the variable plusHealth from _scriptableObject instead. My medicine item successfully disappears once consumed and 
 gives health back to the Cat gameObject.
 
-## W5
+## W6
 ### Activity 1
 - What is new in my build is that the Cat goes towards the enemy when they are in attack state, cat and enemy health is indicated in the top left and also new items are in the game. 
 - My playtesting goal is to see whether or not my cat mechanic is engaging, and working.
@@ -92,3 +92,5 @@ the resulting value gets smaller and smaller towards 0. Color that are closer to
 that are closer to 0 are more translucent. 
 3. I think the shader is getting the UV values from the mesh renderer on the Shiba gameobject.
 4. I think manipulating colors with math sounds interesting but intimidating.
+
+## W7
