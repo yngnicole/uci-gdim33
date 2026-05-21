@@ -306,7 +306,7 @@
     "m_Hidden": false,
     "m_ShaderOutputName": "X",
     "m_StageCapability": 3,
-    "m_Value": 1.0,
+    "m_Value": 0.0,
     "m_DefaultValue": 0.0,
     "m_Labels": []
 }
@@ -453,7 +453,7 @@
             "x": -607.3333740234375,
             "y": 627.3333129882813,
             "width": 127.33334350585938,
-            "height": 78.66668701171875
+            "height": 78.6666259765625
         }
     },
     "m_Slots": [
