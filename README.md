@@ -117,3 +117,7 @@ the noise texture, and increases the lighter areas because colors are being adde
 adding a health bar or hunger bar.
 
 # Act 2 
+- I did activity 2c
+1.
+2. When the lerp is set to 0, there is no post processing effect on the screen at all. When the lerp is set to 0.5, there is a faint effect, and when the lerp is set to 1, the effect is super apparant. 
+3.
