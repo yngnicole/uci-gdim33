@@ -123,3 +123,5 @@ adding a health bar or hunger bar.
 3. The screen looks like that based on those different Lerp value because lerp finds the given x value based on the two original values which are the BlitTexture which
 is the texture we are applying and the multiplied texture of the original scene. So if the lerp value is closer to 1, then the effect will be darker and more opaque because it wants
 to be closer to the effect value,whereas if the lerp value is closer to 0, the effect will be more transparent because the x value is closer to the scene value. 
+4. Our algorithm for the Lerp amount use (sin(time)+1)/2 instead of just sin(time) because we use the y-value from the sin graph which shouold have inputs from 0-1 but the original sin graph has y values that 
+go into the negatives whereas the sin graph that is divided does not have any negative y values. 
