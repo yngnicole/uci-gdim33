@@ -120,4 +120,5 @@ adding a health bar or hunger bar.
 - I did activity 2c
 1.
 2. When the lerp is set to 0, there is no post processing effect on the screen at all. When the lerp is set to 0.5, there is a faint effect, and when the lerp is set to 1, the effect is super apparant. 
-3.
+3. The sreen looks like that based on those different Lerp value because lerp finds the given x value based on the two original values which are the BlitTexture and the multiplied texture. So if the 
+lerp value is closer to 1, then the color will be darker and more opaque, whereas if the lerp value is closer to 0, the effect will be more transparent. 
