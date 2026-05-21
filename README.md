@@ -107,3 +107,8 @@ there is a sudden lighter area that does not match the rest.
 the shiba. This is because when two vectors point in opposite direction, it results in a negative dot product result. 
 7. We set the Blend Mode to Addictive for the fire effect in step 6 because it adds the color on the top layer to the texture on the bottom layer. This combines the orange with
 the noise texture, and increases the lighter areas because colors are being added and getting closer to 1. 
+
+## W8
+- What is new in my build since Milestone 2 is that I implemented a hungar bar, a food item, and fixed some bugs like the health text on the screen will go negative. 
+- [Itch](https://yngnicole.itch.io/gdim-33-playtest)
+- My playtesting goals is to see if my controls are intuitive. 
