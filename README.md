@@ -118,7 +118,7 @@ adding a health bar or hunger bar.
 
 # Act 2 
 - I did activity 2c
-1.
+1. The name of the pass associated with the post-processing effect is the Render PostProcessing Effects. I can tell because in the output, it is where the effect starts to show. 
 2. When the lerp is set to 0, there is no post processing effect on the screen at all. When the lerp is set to 0.5, there is a faint effect, and when the lerp is set to 1, the effect is super apparant. 
 3. The screen looks like that based on those different Lerp value because lerp finds the given x value based on the two original values which are the BlitTexture which
 is the texture we are applying and the multiplied texture of the original scene. So if the lerp value is closer to 1, then the effect will be darker and more opaque because it wants
