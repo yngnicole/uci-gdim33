@@ -112,3 +112,4 @@ the noise texture, and increases the lighter areas because colors are being adde
 - What is new in my build since Milestone 2 is that I implemented a hungar bar, a food item, and fixed some bugs like the health text on the screen will go negative. 
 - [Itch](https://yngnicole.itch.io/gdim-33-playtest)
 - My playtesting goals is to see if my controls are intuitive. 
+- Playtest Notes: I got feedback that I need to add more features and a map to my game. It seems like my controls are pretty intuitive. 
