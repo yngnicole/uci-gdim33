@@ -109,8 +109,11 @@ the shiba. This is because when two vectors point in opposite direction, it resu
 the noise texture, and increases the lighter areas because colors are being added and getting closer to 1. 
 
 ## W8
+# Act 1 
 - What is new in my build since Milestone 2 is that I implemented a hungar bar, a food item, and fixed some bugs like the health text on the screen will go negative. 
 - [Itch](https://yngnicole.itch.io/gdim-33-playtest)
 - My playtesting goals is to see if my controls are intuitive. 
 - Playtest Notes: I got feedback that I need to add more features and a map to my game. It seems like my controls are pretty intuitive. Also that I should think about improving my UI like
-adding a health bar or hunger bar. 
+adding a health bar or hunger bar.
+
+# Act 2 
