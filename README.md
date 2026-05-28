@@ -1,4 +1,3 @@
-<img width="1881" height="960" alt="Screenshot 2026-05-27 175835" src="https://github.com/user-attachments/assets/53c6524e-4589-4b86-a60e-a0714b38292a" />
 # GDIM 33 In-Class Activities
 ## W1
 ### Activity 1
