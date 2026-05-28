@@ -1,4 +1,4 @@
-
+<img width="1881" height="960" alt="Screenshot 2026-05-27 175835" src="https://github.com/user-attachments/assets/53c6524e-4589-4b86-a60e-a0714b38292a" />
 # GDIM 33 In-Class Activities
 ## W1
 ### Activity 1
@@ -141,7 +141,8 @@ to activiate and deactivate the post processing effect is to turn the overlay to
 
 Pics:
 <img width="1802" height="964" alt="Screenshot 2026-05-27 175841" src="https://github.com/user-attachments/assets/f228eefa-b883-418e-96cb-fbdb9cdd2040" />
-![Uploading Screenshot 2026-05-27 175835.png…]()
+<img width="1881" height="960" alt="Screenshot 2026-05-27 175835" src="https://github.com/user-attachments/assets/ea526ad9-df9a-4134-86bc-50c70eec0bc6" />
+
 
 
 # Act 2
