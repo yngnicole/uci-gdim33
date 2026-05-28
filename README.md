@@ -1,3 +1,4 @@
+<img width="2184" height="1048" alt="Screenshot 2026-05-27 182342" src="https://github.com/user-attachments/assets/2d2a5def-103e-4f75-ba3a-a57f2c94234e" />
 # GDIM 33 In-Class Activities
 ## W1
 ### Activity 1
@@ -146,3 +147,5 @@ Pics:
 ### Act 2
 A problem I solved was that my vignette was not working properly. The edges were white instead of black but if I set the color to black it would make the vignette transparent. To fix this, 
 instead of multiplying the vignette with the color and dragging the output to both of the input for Base color and alpha, I directly plugged color to the base color and alpha only to the vignette.
+
+<img width="2184" height="1048" alt="Screenshot 2026-05-27 182342" src="https://github.com/user-attachments/assets/b20b878d-9bad-41ea-bdbc-38cd8652573d" />
