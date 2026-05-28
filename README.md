@@ -139,7 +139,8 @@ to activiate and deactivate the post processing effect is to turn the overlay to
 - For the interactable objects to be highlighted in blue, I think it looks for how close the character might be and triggers the rendering effect. 
 
 Pics:
-![Uploading image (1).png…]()
-![Uploading image.png…]()
+![Uploading Screenshot 2026-05-27 175835.png…]()
+![Uploading Screenshot 2026-05-27 175841.png…]()
+
 
 
