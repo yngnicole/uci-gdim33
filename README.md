@@ -125,3 +125,15 @@ is the texture we are applying and the multiplied texture of the original scene.
 to be closer to the effect value,whereas if the lerp value is closer to 0, the effect will be more transparent because the x value is closer to the scene value. 
 4. Our algorithm for the Lerp amount use (sin(time)+1)/2 instead of just sin(time) because we use the y-value from the sin graph which shouold have inputs from 0-1 but the original sin graph has y values that 
 go into the negatives whereas the sin graph that is divided does not have any negative y values. 
+
+## W9
+# Act 1 
+- We chose Detroit Become Human 
+Features:
+- During the game, there is a full-screen post processing effect where during scenes or challenges, the player can get Xray vision and description on the objects around them.
+- There is also another rendering system where interactable objects are highlighted in blue. This rendering effect should be applied to only the materials of the objects that are interactive. 
+
+Implementation 
+- For the full-screen post processing effect, we might build the rendering system by changing the rendering effect on the camera and turning down saturation. I think the way
+to activiate and deactivate the post processing effect is to turn the overlay to transparant when indicated to do so.
+- For the interactable objects to be highlighted in blue, I think it looks for how close the character might be and triggers the rendering effect. 
