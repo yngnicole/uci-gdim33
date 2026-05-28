@@ -109,14 +109,14 @@ the shiba. This is because when two vectors point in opposite direction, it resu
 the noise texture, and increases the lighter areas because colors are being added and getting closer to 1. 
 
 ## W8
-# Act 1 
+### Act 1 
 - What is new in my build since Milestone 2 is that I implemented a hungar bar, a food item, and fixed some bugs like the health text on the screen will go negative. 
 - [Itch](https://yngnicole.itch.io/gdim-33-playtest)
 - My playtesting goals is to see if my controls are intuitive. 
 - Playtest Notes: I got feedback that I need to add more features and a map to my game. It seems like my controls are pretty intuitive. Also that I should think about improving my UI like
 adding a health bar or hunger bar.
 
-# Act 2 
+### Act 2 
 - I did activity 2c
 1. The name of the pass associated with the post-processing effect is the Render PostProcessing Effects. I can tell because in the output, it is where the effect starts to show. 
 2. When the lerp is set to 0, there is no post processing effect on the screen at all. When the lerp is set to 0.5, there is a faint effect, and when the lerp is set to 1, the effect is super apparant. 
@@ -127,7 +127,7 @@ to be closer to the effect value,whereas if the lerp value is closer to 0, the e
 go into the negatives whereas the sin graph that is divided does not have any negative y values. 
 
 ## W9
-# Act 1 
+### Act 1 
 - We chose Detroit Become Human 
 Features:
 - During the game, there is a full-screen post processing effect where during scenes or challenges, the player can get Xray vision and description on the objects around them.
@@ -143,6 +143,6 @@ Pics:
 ![Uploading Screenshot 2026-05-27 175841.png…]()
 
 
-# Act 2
+### Act 2
 A problem I solved was that my vignette was not working properly. The edges were white instead of black but if I set the color to black it would make the vignette transparent. To fix this, 
 instead of multiplying the vignette with the color and dragging the output to both of the input for Base color and alpha, I directly plugged color to the base color and alpha only to the vignette.
