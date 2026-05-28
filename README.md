@@ -137,3 +137,7 @@ Implementation
 - For the full-screen post processing effect, we might build the rendering system by changing the rendering effect on the camera and turning down saturation. I think the way
 to activiate and deactivate the post processing effect is to turn the overlay to transparant when indicated to do so.
 - For the interactable objects to be highlighted in blue, I think it looks for how close the character might be and triggers the rendering effect. 
+
+Pics:
+https://mail.google.com/mail/u/0?ui=2&ik=0cf871c7a8&attid=0.1&permmsgid=msg-f:1866390870262803967&th=19e6c09ba20bedff&view=fimg&fur=ip&permmsgid=msg-f:1866390870262803967&sz=s0-l75-ft&attbid=ANGjdJ_FrlDsbSTb9wDinJ2S9kFV27-bxWfiIgrbK4bcbal435Ln2Yh7zMI7gY5MsPMGTTUM4jXKK7uPrGDy244J8a4WmMqwyKylCaDnj4JaayVfuvE847Q0u7HuLhY&disp=emb&realattid=ii_mporo2k10&zw
+https://mail.google.com/mail/u/0?ui=2&ik=0cf871c7a8&attid=0.2&permmsgid=msg-f:1866390870262803967&th=19e6c09ba20bedff&view=fimg&fur=ip&permmsgid=msg-f:1866390870262803967&sz=s0-l75-ft&attbid=ANGjdJ8bcwzK0Rj45jYEbgTJ6-SwaKW509GzgDK0-BbxGZEGSvPxEN5_Ezf7ca8nUJBU2U2QPSaWRFpzBMLEMwkpi7mTIsxjE_fPWw8Y5WYX8IWNGlCsrs3k7s-w3io&disp=emb&realattid=ii_mporoped1&zw
