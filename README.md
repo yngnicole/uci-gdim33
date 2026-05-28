@@ -1,3 +1,4 @@
+
 # GDIM 33 In-Class Activities
 ## W1
 ### Activity 1
@@ -139,7 +140,7 @@ to activiate and deactivate the post processing effect is to turn the overlay to
 - For the interactable objects to be highlighted in blue, I think it looks for how close the character might be and triggers the rendering effect. 
 
 Pics:
-
+<img width="1802" height="964" alt="Screenshot 2026-05-27 175841" src="https://github.com/user-attachments/assets/f228eefa-b883-418e-96cb-fbdb9cdd2040" />
 
 # Act 2
 A problem I solved was that my vignette was not working properly. The edges were white instead of black but if I set the color to black it would make the vignette transparent. To fix this, 
